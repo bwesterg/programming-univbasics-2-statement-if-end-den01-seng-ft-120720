@@ -1,2 +1,2 @@
 # Write your solution herechance_of_rain = 0.2
-Time.now
+puts Time.now
